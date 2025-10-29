@@ -19,6 +19,7 @@ jmespath = "^1.0.1"
 scrapfly-sdk = "^0.8.23"
 twikit = "^2.3.3"
 instaloader = "^4.14.2"
+praw = "^7.8.1"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
